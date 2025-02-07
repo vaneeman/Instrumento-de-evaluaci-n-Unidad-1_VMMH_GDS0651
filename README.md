@@ -4,31 +4,27 @@ Códigos, Videos, Fotografías, Diagramas y Flujos correspondientes a las activi
 ## PARTE TEÓRICA (30 PUNTOS) (INDIVIDUAL)
 Basada en NetAcad Python Fundamentals 2
 ### 1. El docente asignará ejercicios específicos del curso, enfocados en:
-○ Tipos de datos y estructuras básicas en Python.
-○ Funciones y manejo de archivos.
-○ Control de flujo (condicionales y bucles).
-○ Introducción a librerías de IoT en Python.
+#### ○ Tipos de datos y estructuras básicas en Python.
+#### ○ Funciones y manejo de archivos.
+#### ○ Control de flujo (condicionales y bucles).
+#### ○ Introducción a librerías de IoT en Python.
 
 ### 2. Evidencias requeridas:
-○ Capturas de pantalla de los ejercicios terminados. (15 puntos)
-○ Cuestionario final asignado por el docente. (15 puntos)
+#### ○ Capturas de pantalla de los ejercicios terminados. (15 puntos)
+#### ○ Cuestionario final asignado por el docente. (15 puntos)
 
 
 ## PARTE PRÁCTICA (60 PUNTOS) (PAREJAS)
 ### Ejercicio 1: Almacenamiento de Datos 
-● Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los
-almacene en:
-○ Base de datos PostgreSQL mediante Node-RED.
-● Evidencias requeridas:
-○ Diagrama de conexión. (5 puntos)
-○ Código documentado en GitHub. (5 puntos)
-○ Video mostrando el funcionamiento. (5 puntos)
+#### ● Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en:
+#### ○ Base de datos PostgreSQL mediante Node-RED.
+#### ● Evidencias requeridas:
+##### ○ Diagrama de conexión. (5 puntos)
+##### ○ Código documentado en GitHub. (5 puntos)
+##### ○ Video mostrando el funcionamiento. (5 puntos)
 
 ### Ejercicio 2: Control de actuadores
-● Diseña un sistema IoT que controle un actuador (LED, servomotor, buzzer, etc.)
-basado en la lectura de un sensor o entrada.
-○ Ejemplo: Controlar un LED RGB con un sensor de luz, o un servomotor
-activado por un pulsador.
+#### ● Diseña un sistema IoT que controle un actuador (LED, servomotor, buzzer, etc.) basado en la lectura de un sensor o entrada. Ejemplo: Controlar un LED RGB con un sensor de luz, o un servomotor activado por un pulsador.
 ● Evidencias requeridas:
 ○ Diagrama de conexión. (5 puntos)
 ○ Código documentado en GitHub. (5 puntos)

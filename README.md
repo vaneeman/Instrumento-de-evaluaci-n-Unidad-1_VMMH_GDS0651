@@ -16,8 +16,8 @@ Basada en NetAcad Python Fundamentals 2
 
 ## PARTE PRÁCTICA (60 PUNTOS) (PAREJAS)
 ### Ejercicio 1: Almacenamiento de Datos 
-#### ● Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en:
-#### ○ Base de datos PostgreSQL mediante Node-RED.
+### ● Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en:
+### ○ Base de datos PostgreSQL mediante Node-RED.
 #### ● Evidencias requeridas:
 #### ○ Diagrama de conexión. (5 puntos)
 #### ○ Código documentado en GitHub. (5 puntos)
